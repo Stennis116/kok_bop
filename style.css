@@ -70,3 +70,10 @@ h1 {
     border: solid ;
     background-color: antiquewhite;
 }
+.blacksalmon {
+    flex: 1 1 auto;
+    display: flex;
+    flex-direction: column;
+    border: solid ;
+    background-color: antiquewhite;   
+}
